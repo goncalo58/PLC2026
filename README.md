@@ -5,7 +5,7 @@
 - **Número:** A111016
 - **Curso:** Licenciatura em Ciências da Computação
 - **Instituição:** Universidade do Minho
-- <img width="1181" height="1772" alt="c9c40625-d9f8-4de0-a452-1bf1d67ef5a9" src="https://github.com/user-attachments/assets/598981f9-15bb-453f-a72f-a95231cea6cc" />
+<img width="1017" height="1017" alt="plc2026" src="https://github.com/user-attachments/assets/0cfa87ce-8e48-4c55-bd65-5a0fdddbac42" />
 
 
 ## Conteúdo do Repositório
