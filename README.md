@@ -9,5 +9,5 @@
 
 
 ## Conteúdo do Repositório
-Este repositório contém a resolução dos Trabalhos Práticos (TPC) desenvolvidos no âmbito da unidade curricular:
+Este repositório contém a resolução dos Trabalhos Práticos (TPC) desenvolvidos no âmbito da unidade curricular
 
