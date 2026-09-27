@@ -5,7 +5,8 @@
 - **Identificador:** A111016
 - **Fotografia:**
 
-<img src="../foto.jpg" alt="Gonçalo Miguel Abreu Pereira" width="130"/>
+<img width="1181" height="1772" alt="c9c40625-d9f8-4de0-a452-1bf1d67ef5a9(1)" src="https://github.com/user-attachments/assets/3b5dd59e-2b9f-412f-a572-7e6538925621" />
+
 
 ## Resumo
 Elaboração e verificação experimental de uma Expressão Regular destinada a filtrar linguagens binárias, rejeitando qualquer entrada onde ocorra a sequência contígua "011".
