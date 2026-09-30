@@ -5,8 +5,9 @@
 - **Identificador:** A111016
 - **Fotografia:**
 
-<img width="1181" height="1772" alt="c9c40625-d9f8-4de0-a452-1bf1d67ef5a9(1)" src="https://github.com/user-attachments/assets/3b5dd59e-2b9f-412f-a572-7e6538925621" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b5dd59e-2b9f-412f-a572-7e6538925621" width="200" alt="Foto de perfil" />
+</p>
 
 ## Resumo
 Elaboração e verificação experimental de uma Expressão Regular destinada a filtrar linguagens binárias, rejeitando qualquer entrada onde ocorra a sequência contígua "011".
