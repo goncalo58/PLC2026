@@ -5,7 +5,9 @@
 - **Identificador:** A111016
 - **Fotografia:**
 
-<img src="../foto.jpg" alt="Gonçalo Miguel Abreu Pereira" width="130"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b5dd59e-2b9f-412f-a572-7e6538925621" width="200" alt="Foto de perfil" />
+</p>
 
 ## Resumo
 Implementação em Python de um conversor de anotações MarkDown para linguagem HTML, contemplando os elementos nucleares da especificação "Basic Syntax".
